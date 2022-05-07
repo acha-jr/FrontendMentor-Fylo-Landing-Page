@@ -1,8 +1,5 @@
-# FrontendMentor-Fylo-Landing-Page
-
 # PREVIEW
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/105124616/167271571-b23ca829-bd78-4356-9f2d-2b207eef3d5b.gif)
-
+![desktop-preview](https://user-images.githubusercontent.com/104359088/166691465-1c3933e4-3f95-4c56-9792-1feb09a6cb3c.jpg)
 
 # Challenge from Frontend Mentor
 https://frontendmentor.io/
